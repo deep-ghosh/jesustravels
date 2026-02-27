@@ -18,7 +18,7 @@ export const SITE_CONFIG = {
   phone2: '+917595025030',       // Alternate phone number
   phoneClean: '919831005736',    // For tel: links (no + or spaces)
   phoneClean2: '917595025030',   // Alternate phone clean
-  whatsapp: '919831005736',      // WhatsApp number (digits only)
+  whatsapp: '918240499192',      // WhatsApp number (digits only)
   email: 'jesustravel.me@gmail.com',
   adminEmail: 'jesustravel.me@gmail.com',
   

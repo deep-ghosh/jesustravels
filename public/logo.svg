@@ -1,44 +1,77 @@
-<svg viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#d4af37;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#f4d03f;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#d4af37;stop-opacity:1" />
-    </linearGradient>
-    <filter id="shadow">
-      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-opacity="0.3"/>
-    </filter>
-  </defs>
-  
-  <!-- Outer Border/Banner Background -->
-  <path d="M 40 50 Q 60 30 80 35 L 820 35 Q 840 30 860 50 L 870 120 Q 860 160 840 165 L 60 165 Q 40 160 30 120 Z" 
-        fill="url(#goldGrad)" stroke="#0f2847" stroke-width="6" filter="url(#shadow)"/>
-  
-  <!-- Inner decorative border -->
-  <path d="M 50 55 Q 65 40 80 45 L 820 45 Q 835 40 850 55 L 860 115 Q 850 155 835 160 L 65 160 Q 50 155 40 115 Z" 
-        fill="none" stroke="#0f2847" stroke-width="2.5"/>
-  
-  <!-- Highlight edge -->
-  <path d="M 50 55 Q 65 40 80 45 L 820 45" 
-        fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.5"/>
-  
-  <!-- Main stylized text: JESUS TRAVELS -->
-  <text x="450" y="115" font-family="Georgia, serif" font-size="72" font-weight="bold" 
-        text-anchor="middle" fill="#0f2847" letter-spacing="3"
-        style="font-style: italic; text-shadow: 2px 2px 2px rgba(255,255,255,0.5);">
-    JESUS TRAVELS
-  </text>
-  
-  <!-- Text outline/shadow effect -->
-  <text x="451" y="116" font-family="Georgia, serif" font-size="72" font-weight="bold" 
-        text-anchor="middle" fill="none" stroke="#0f2847" stroke-width="0.5" letter-spacing="3"
-        style="font-style: italic; opacity: 0.3;">
-    JESUS TRAVELS
-  </text>
-  
-  <!-- Subtitle: POOLCAR AND TOURIST TRAVEL SERVICES -->
-  <text x="450" y="145" font-family="Arial, sans-serif" font-size="11" font-weight="bold" 
-        text-anchor="middle" fill="#0f2847" letter-spacing="1.5">
-    POOLCAR AND TOURIST TRAVEL SERVICES
-  </text>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="304.8mm" height="457.2mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 30480 45720"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="451" font-variant="normal" style="fill-rule:nonzero" font-weight="700">
+	<font-face 
+		font-family="Agency FB">
+		<font-face-src>
+			<font-face-name name="Agency FB Bold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="A" horiz-adv-x="451" d="M432.999 0l-113 0 -22.9998 145.001 -143.166 0 -22.833 -145.001 -113 0 0 1.99845 148.001 763.003 120.167 0 146.833 -765.001zm-152.164 242.999l-55.8346 344.833 -56.0014 -344.833 111.836 0z"/>
+   <glyph unicode="E" horiz-adv-x="394" d="M362.999 0l-316.999 0 0 764 314 0 0 -101 -199.999 0 0 -223.002 172.999 0 0 -98.9985 -172.999 0 0 -240 202.998 0 0 -101z"/>
+   <glyph unicode="J" horiz-adv-x="433" d="M389.001 60.4987c-0.166805,-40.1646 -20.3341,-60.3319 -60.502,-60.4987l-234.999 0c-40.1678,0.166805 -60.3351,20.3341 -60.502,60.4987l0 197.5 114.001 0 0 -159.998 128 0 0 665.999 114.001 0 0 -703.502z"/>
+   <glyph unicode="L" horiz-adv-x="368" d="M346.001 0l-300.001 0 0 764 114.001 0 0 -661.999 186 0 0 -102.001z"/>
+   <glyph unicode="R" horiz-adv-x="460" d="M436.999 0l-118.999 0 -126.002 355.165c0,0 0,22.9998 0,68.8358l112.003 0 0 241.998 -144 0 0 -665.999 -114.001 0 0 764 311.501 0c40.3314,-0.166805 60.4987,-20.3341 60.4987,-60.4987l0 -296.001c0,-27.6671 -10.8327,-45.8328 -32.6648,-54.1666 -11.8335,-4.16691 -36.5013,-6.33537 -74.3339,-6.33537l125.998 -346.998z"/>
+   <glyph unicode="S" horiz-adv-x="456" d="M412.001 60.4987c0,-40.1646 -20.1673,-60.3319 -60.502,-60.4987l-246.999 0c-40.3346,0.166805 -60.4987,20.3341 -60.4987,60.4987l0 190.5 113.998 0 0 -155 140 0 0 150.002 -229.167 216.833c-16.5008,15.9972 -24.8314,36.3313 -24.8314,60.9992l0 179.668c0,40.1646 20.1641,60.3319 60.4987,60.4987l246.999 0c40.3346,-0.166805 60.502,-20.0005 60.502,-59.5011l0 -180.499 -114.001 0 0 144 -140 0 0 -138.502 229.167 -215.832c16.5008,-15.6668 24.8346,-36.3345 24.8346,-62l0 -191.168z"/>
+   <glyph unicode="T" horiz-adv-x="390" d="M377.998 663l-125.998 0 0 -663 -114.001 0 0 663 -125.998 0 0 101 365.998 0 0 -101z"/>
+   <glyph unicode="U" horiz-adv-x="474" d="M428.001 60.4987c-0.166805,-40.1646 -20.3341,-60.3319 -60.502,-60.4987l-260.998 0c-40.1678,0.166805 -60.3351,20.3341 -60.502,60.4987l0 703.502 114.001 0 0 -665.999 153.999 0 0 665.999 114.001 0 0 -703.502z"/>
+   <glyph unicode="V" horiz-adv-x="444" d="M426 764l-145.999 -765.001 -114.001 0 -145.999 765.001 114.999 0 85.3334 -523.834c0.667218,-14.9996 1.66805,-36.8317 2.99928,-65.3329 -0.333609,14.8328 0.500414,36.6649 2.83568,65.3329l85.8338 523.834 113.998 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Agency FB";font-variant:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .fil0 {fill:#0256B7}
+    .fil5 {fill:url(#id0)}
+    .fil4 {fill:url(#id1)}
+    .fil3 {fill:url(#id2)}
+    .fil2 {fill:url(#id3)}
+    .fil1 {fill:url(#id4)}
+    .fil6 {fill:url(#id5)}
+    .fnt0 {font-weight:bold;font-size:3117.42px;font-family:'Agency FB'}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="16070.84" y1="24679.56" x2="16070.85" y2="15737.1">
+   <stop offset="0" style="stop-opacity:1; stop-color:#003EA3"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#015EC0"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="18437.94" y1="23506.8" x2="16314.62" y2="14975">
+   <stop offset="0" style="stop-opacity:1; stop-color:#0199E7"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#02AFF2"/>
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="13183.97" y1="24507.42" x2="11500" y2="14848.19">
+   <stop offset="0" style="stop-opacity:1; stop-color:#032A77"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#019FED"/>
+  </linearGradient>
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="20881.75" y1="14107.46" x2="20679.35" y2="11657.05">
+   <stop offset="0" style="stop-opacity:1; stop-color:#04A5ED"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#06B4F1"/>
+  </linearGradient>
+  <linearGradient id="id4" gradientUnits="userSpaceOnUse" x1="17256.89" y1="14016.28" x2="15604.63" y2="11756.89">
+   <stop offset="0" style="stop-opacity:1; stop-color:#0363C1"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#0176D6"/>
+  </linearGradient>
+  <radialGradient id="id5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.425041 -1.19251 0.911503 0.556076 -8051 29336)" cx="17259.5" cy="19719.65" r="3026.74" fx="17259.5" fy="19719.65">
+   <stop offset="0" style="stop-opacity:1; stop-color:#8BF1FD"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#25B6F5"/>
+  </radialGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g transform="matrix(1.09785 0 0 1 -10643.7 6542.91)">
+   <text x="15240" y="22860"  class="fil0 fnt0">JESUS TRAVELS</text>
+  </g>
+  <path class="fil1" d="M14754.25 14112.59c409.41,-1634.67 614.12,-2452.01 614.12,-2452.01 1825.93,2.99 2738.9,4.48 2738.9,4.48 -418.38,1631.69 -627.57,2447.53 -627.57,2447.53 -1816.97,0 -2725.45,0 -2725.45,0z"/>
+  <path class="fil2" d="M18187.28 14097.08c424.37,-1619.77 636.55,-2429.65 636.55,-2429.65 3033.33,0 4549.99,0 4549.99,0 -361.61,1386.66 -542.41,2079.99 -542.41,2079.99 -82.18,231.45 -216.66,346.5 -403.45,345.17 -2827.12,2.99 -4240.68,4.49 -4240.68,4.49z"/>
+  <path class="fil3" d="M13378.22 19478.54c809.71,-3134.36 1214.56,-4701.54 1214.56,-4701.54 1803.94,1.97 2705.91,2.95 2705.91,2.95 -958.85,3626.09 -1438.27,5439.14 -1438.27,5439.14 -561.09,1862.67 -1863.91,3124.34 -3908.44,3785.01 -1307.29,438.89 -2829.53,626.31 -4566.7,562.27 484.55,-1837.65 726.83,-2756.48 726.83,-2756.48 1645.66,0 2468.49,0 2468.49,0 1607.57,28.7 2540.11,-748.42 2797.62,-2331.35z"/>
+  <path class="fil4" d="M16533.97 20358.43c-353.56,1330.58 -1126.41,2445.17 -2318.55,3343.76 2462.66,-1670.59 4492.05,-4325.62 6088.17,-7965.09 0,0 77.85,-318.31 233.55,-954.92 0,0 -845.07,-0.86 -2535.2,-2.57 -978.65,3719.21 -1467.97,5578.82 -1467.97,5578.82z"/>
+  <path class="fil5" d="M14215.42 23702.19c2799.56,-1656.95 4828.95,-4311.98 6088.17,-7965.09 -951.87,3842.73 -1427.81,5764.09 -1427.81,5764.09 -445.34,1648.86 -1491.32,2652.52 -3137.94,3010.97 -588.55,129.19 -1888.46,183.6 -3899.74,163.24 1011.86,-239.38 1804.3,-563.79 2377.32,-973.21z"/>
+  <path class="fil6" d="M14215.42 23702.19c2775.68,-1626.96 4805.07,-4281.99 6088.17,-7965.09 -1602.1,3646.94 -3631.49,6301.97 -6088.17,7965.09z"/>
+ </g>
 </svg>

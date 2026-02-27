@@ -153,7 +153,7 @@ export function ContactForm() {
                 <Phone className="w-5 h-5" /> Call Now
               </Button>
             </a>
-            <a href="https://wa.me/919831005736">
+            <a href="https://wa.me/918240499192">
               <Button className="bg-green-500 hover:bg-green-600 font-semibold px-6 py-3 flex items-center gap-2 w-full">
                 <MessageSquare className="w-5 h-5" /> WhatsApp
               </Button>
@@ -340,7 +340,7 @@ export function ContactForm() {
           </div>
           <p className="text-gray-700 mb-3">Quick messages and updates</p>
           <a
-            href="https://wa.me/919831005736"
+            href="https://wa.me/918240499192"
             className="inline-block text-green-600 font-bold hover:text-green-700 transition-colors"
           >
             Start Chat

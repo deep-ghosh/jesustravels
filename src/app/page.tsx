@@ -83,7 +83,7 @@ export default function HomePage() {
                 </div>
                 <div className="min-w-0">
                   <p className="text-blue-200 text-xs">WhatsApp us</p>
-                  <p className="font-semibold text-sm truncate">+91 9831005736</p>
+                  <p className="font-semibold text-sm truncate">+91 8240499192</p>
                 </div>
               </div>
             </div>
@@ -225,7 +225,7 @@ export default function HomePage() {
                   <Phone className="w-5 h-5" /> Call Us
                 </Button>
               </a>
-              <a href="https://wa.me/919831005736">
+              <a href="https://wa.me/918240499192">
                 <Button className="bg-green-500 hover:bg-green-600 font-semibold px-8 py-4 flex items-center gap-2">
                   <MessageCircle className="w-5 h-5" /> WhatsApp
                 </Button>
@@ -307,7 +307,7 @@ export default function HomePage() {
               <MessageCircle className="w-8 h-8 mb-4" />
               <h3 className="text-2xl font-bold mb-2">WhatsApp</h3>
               <p className="text-blue-100 mb-4">Quick messages and bookings</p>
-              <a href="https://wa.me/919831005736" className="text-lg font-semibold hover:text-blue-300 transition-colors">
+              <a href="https://wa.me/918240499192" className="text-lg font-semibold hover:text-blue-300 transition-colors">
                 Start Chat
               </a>
               <p className="text-sm text-blue-200 mt-2">Instant response</p>

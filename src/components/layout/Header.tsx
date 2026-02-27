@@ -53,17 +53,17 @@ export function Header() {
       <div className="w-full px-2 sm:px-4 md:px-6">
         <div className="flex items-center justify-between min-h-14 sm:min-h-16 md:min-h-20 gap-2">
           {/* Logo - Clickable to Home */}
-          <Link href="/" className="flex items-center flex-shrink-0 hover:opacity-90 transition-opacity">
+          <a href="/" className="flex items-center flex-shrink-0 hover:opacity-90 transition-opacity">
             <Image 
               src="/logo.svg" 
               alt="Jesus Travel" 
               width={400} 
               height={100}
-              className="h-12 sm:h-14 md:h-16 w-auto"
+              className="h-16 sm:h-20 md:h-24 w-auto"
               priority
               quality={95}
             />
-          </Link>
+          </a>
           
           {/* Desktop Navigation */}
           <nav className="hidden lg:flex items-center gap-0.5 xl:gap-1">
@@ -97,7 +97,7 @@ export function Header() {
               <span className="hidden md:inline text-xs">Email</span>
             </a>
             <a 
-              href="https://wa.me/919831005736"
+              href="https://wa.me/918240499192"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-0.5 sm:gap-1 bg-green-50 text-green-600 hover:bg-green-100 px-1.5 sm:px-2 md:px-3 py-1.5 sm:py-2 rounded text-xs sm:text-xs md:text-sm font-medium transition-colors"
@@ -160,7 +160,7 @@ export function Header() {
                 <Mail className="w-4 h-4 sm:w-5 h-5" /> Email
               </a>
               <a 
-                href="https://wa.me/919831005736"
+                href="https://wa.me/918240499192"
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={() => setMobileMenuOpen(false)}

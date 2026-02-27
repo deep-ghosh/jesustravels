@@ -277,7 +277,7 @@ function generateUserConfirmationEmail(name: string): string {
           <strong>📱 Phone:</strong> <a href="tel:${SITE_CONFIG.phone}" style="color: #2563eb; text-decoration: none;">${SITE_CONFIG.phone}</a>
         </p>
         <p style="margin: 0;">
-          <strong>💬 WhatsApp:</strong> <a href="https://wa.me/919831005736" style="color: #22c55e; text-decoration: none;">Start Chat</a>
+          <strong>💬 WhatsApp:</strong> <a href="https://wa.me/918240499192" style="color: #22c55e; text-decoration: none;">Start Chat</a>
         </p>
       </div>
       

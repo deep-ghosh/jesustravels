@@ -7,7 +7,7 @@ export interface FAQ {
 export const FAQS: FAQ[] = [
   {
     question: 'How do I book a ride?',
-    answer: 'You can book a ride through our online booking form, by calling us at +919831005736, or by sending a WhatsApp message. We recommend booking at least 24 hours in advance for guaranteed availability.',
+    answer: 'You can book a ride through our online booking form, by calling us at +919831005736, or by sending a WhatsApp message to +918240499192. We recommend booking at least 24 hours in advance for guaranteed availability.',
     category: 'Booking',
   },
   {
